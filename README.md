@@ -1,7 +1,6 @@
 # Hoola AI v1.1
 
-**Hoola AI** is a playable AI research project for **Hoola (훌라)**, a Korean rummy-style card game, featuring heuristic and reinforcement-learning agents.  
-It is the first public game-AI project of the **Virtual Institute for Machine Learning (VIML)**.
+**Hoola AI** is a playable AI research project for **Hoola (훌라)**, a Korean rummy-style card game, featuring heuristic and reinforcement-learning agents. It is the first public game-AI project of the **Virtual Institute for Machine Learning (VIML)**.
 
 ![Hoola AI gameplay](docs/images/hoola-ai-image.png)
 
