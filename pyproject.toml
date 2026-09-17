@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hoola-ai"
+version = "1.1.0"
+description = "Two-player Hoola card-game engine for AI experiments"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[project.optional-dependencies]
+rl = ["gymnasium>=0.29", "numpy>=1.24", "torch>=2.1"]

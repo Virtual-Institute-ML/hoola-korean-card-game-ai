@@ -1,0 +1,12 @@
+python3 train_rl.py \
+    --updates 1000 \
+    --episodes-per-update 200 \
+    --hidden-sizes 1024 1024 512 \
+    --human-data records_human/ \
+    --heuristic-data records_heuristic/ \
+    --heuristic-updates 2 \
+    --heuristic-batch-size 256 \
+    --heuristic-bc-coef 0.10 \
+    --eval-every 10 \
+    --eval-games 200 \
+    --checkpoint-dir checkpoints/rl_v1_large/rl_v1_large_t1
