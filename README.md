@@ -575,3 +575,13 @@ Planned directions include:
 The **Virtual Institute for Machine Learning (VIML)** is an independent project for building and studying machine-learning systems, game AI, scientific computing tools, and interactive AI applications.
 
 Hoola AI is its first game-AI project.
+
+## License
+
+This project is licensed under the
+**VIML Research and Non-Commercial License v1.0**.
+
+Free for research, educational, and personal non-commercial use.
+Commercial use requires separate permission from the copyright holder.
+
+See [LICENSE](LICENSE) for full terms.
